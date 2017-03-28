@@ -1,0 +1,7 @@
+main: com.horizonnoswear.ImBaeAndItsOk.Plugin
+version: 1.0
+name: HorizonNoSwear
+
+commands:
+  infohorizon:
+    description: Link to the creator of HNS.
